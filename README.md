@@ -1,5 +1,8 @@
 # Etch-a-Sketch
 
-### V1
+### V2
 - UI created
 - Table created using JS
+- Working Etch-a-Sketch
+- Added random RGB options
+
